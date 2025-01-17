@@ -1,0 +1,35 @@
+# Environnements virtuels
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de configuration sensibles
+.env
+
+# Logs
+*.log
+
+__pycache__/
+
+# Données
+
+# Modèles sauvegardés
+models/model.h5
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Autres fichiers à ignorer
+__pycache__/
+*.so
